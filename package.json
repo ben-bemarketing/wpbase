@@ -24,7 +24,7 @@
     "gulp-postcss": "^8.0.0",
     "gulp-rename": "^2.0.0",
     "gulp-sass": "^4.1.0",
-    "webpack": "^4.44.0",
-    "webpack-stream": "^5.2.1"
+    "webpack": "^5.75.0",
+    "webpack-stream": "^7.0.0"
   }
 }
